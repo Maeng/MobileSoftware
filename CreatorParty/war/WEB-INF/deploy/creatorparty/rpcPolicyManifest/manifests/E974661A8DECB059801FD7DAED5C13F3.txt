@@ -1,0 +1,2 @@
+serviceClass: creatorparty.client.GreetingService
+path: 973CCB63EC379FC01507D34BE3FCA65C.gwt.rpc
